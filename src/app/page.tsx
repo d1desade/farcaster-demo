@@ -34,7 +34,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col p-4">
         <Card>
             <CardHeader>
-                <CardTitle>DeRide</CardTitle>
+                <CardTitle>DeRiDE</CardTitle>
                 <CardDescription>
                     Select who you are.
                 </CardDescription>
